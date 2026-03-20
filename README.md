@@ -12,7 +12,7 @@ A private, self-hosted real-time chat app with end-to-end encryption.
 - Reactions
 - Profiles with avatar, bio, status, mood
 - Tab disguise modes
-- Auto-update system (updates clients over WebSocket, no HTTP fetch needed)
+- Auto-update system (does not work on any school laptops) 
 
 ---
 

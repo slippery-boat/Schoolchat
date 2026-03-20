@@ -1,0 +1,14 @@
+# Database — contains all user data and messages
+chat.db
+
+# Node modules — install with npm install
+node_modules/
+
+# Log files
+*.log
+ollama.log
+cloudflared.log
+
+# OS files
+.DS_Store
+Thumbs.db

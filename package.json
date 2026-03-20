@@ -1,0 +1,13 @@
+{
+  "name": "school-chat",
+  "version": "1.0.0",
+  "description": "School chat app with SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "better-sqlite3": "^9.4.3"
+  }
+}
